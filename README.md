@@ -1,6 +1,6 @@
 # Async Labs Website Conversion UI/UX
 
-**Candidate:** Khushi Pandey
+**Candidate:** Pandey Khushi
 
 ## What I Built
 
@@ -10,7 +10,7 @@ I explored two distinct hero concepts and developed one direction into a high-fi
 
 ## Design
 
-Figma: [Add public Figma link here]
+Figma: [[Add public Figma link here](https://www.figma.com/design/m6OG3WsrDoSU9264Bwofcf/async-lab-pandeyKhushi?node-id=0-1&t=mqAOREuEhZ4SahwN-1)]
 
 ## Screenshots
 
